@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This is my first project",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "Build": "parcel build index.html"
   },
   "repository": {
     "type": "git",

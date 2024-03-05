@@ -1,7 +1,4 @@
-#heading{
+.head {
     color: red;
-}
-
-#parent{
-    color: red;
+    text-align: center;
 }
